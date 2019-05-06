@@ -1,0 +1,1 @@
+This is an example Bolt Project v2 directory

@@ -1,0 +1,4 @@
+---
+modulepath: "dependencies/upstream:dependencies/site"
+puppetfile: "dependencies.yaml"
+hiera-config: "variables.yaml"
